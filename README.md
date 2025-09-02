@@ -5,7 +5,7 @@
 
 ## 🚀 Проект на GitHub
 
-👉 [SaaS Landing](https://github.com/ThePolonsky/SaaSLanding?tab=readme-ov-file)
+👉 [[SaaS Landing](https://github.com/ThePolonsky/SaaSLanding?tab=readme-ov-file)](https://thepolonsky.github.io/SaaSLanding/)
 
 ## 🔑 Особенности
 
