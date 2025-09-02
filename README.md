@@ -3,9 +3,9 @@
 🎨 Верстка по [шаблону из Figma](https://www.figma.com/design/7AB2YR50LvQxws4MKD3M4I/SaaS-Landing-Page-Template---Neuros-Lite-AI-Powerd-product--Community-?node-id=223-63937&t=RymRep2K3bsEHNvI-0)  
 👨‍💻 Автор: Михаил Полонский ([thepolonsky](https://github.com/thepolonsky))
 
-## 🚀 Демо
+## 🚀 Проект на GitHub
 
-👉 [thepolonsky.github.io](https://thepolonsky.github.io/SaaSLanding/)
+👉 [SaaS Landing]([https://thepolonsky.github.io/SaaSLanding/](https://github.com/ThePolonsky/SaaSLanding?tab=readme-ov-file))
 
 ## 🔑 Особенности
 
@@ -14,20 +14,7 @@
 - Анимации на **GSAP**
 - Слайдер отзывов на **Swiper.js**
 - Аккордеон FAQ
-- Раскрывающийся grid в блоке Solutions
-
-## 📂 Структура проекта
-
-index.html
-css/
-├── variables.css
-├── base.css
-└── layout.css
-js/
-├── theme.js
-└── script.js
-assets/
-fonts/
+- Раскрывающийся grid в блоке SolutionsT
 
 🔗 [Figma Template](https://www.figma.com/design/7AB2YR50LvQxws4MKD3M4I/SaaS-Landing-Page-Template---Neuros-Lite-AI-Powerd-product--Community-?node-id=223-63937&t=RymRep2K3bsEHNvI-0)  
 📌 Лицензия: MIT
