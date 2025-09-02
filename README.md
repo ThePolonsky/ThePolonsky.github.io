@@ -18,9 +18,9 @@
 
 ## 📂 Структура проекта
 
-index.html
-css/
-├── variables.css
+index.html /br
+css/ /br
+├── variables.css /br
 ├── base.css
 └── layout.css
 js/
