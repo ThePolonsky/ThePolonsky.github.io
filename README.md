@@ -11,9 +11,9 @@
 - Аккордеон FAQ
 - Раскрывающийся grid в блоке Solutions
 
+---
 
-
-## [Sfera by Kubix]
+## Sfera by Kubix
 
 <img width="234" height="506" alt="IMG_4751" src="https://github.com/user-attachments/assets/b3e94de8-02ac-4bff-b587-fda1c06043cb" />  
 <img width="234" height="506" alt="IMG_4750" src="https://github.com/user-attachments/assets/4c3c5bf5-9a87-46a2-b338-4723256bb9af" />  
